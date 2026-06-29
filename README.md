@@ -1,7 +1,7 @@
 # Olist E-Commerce Analysis
 
 End-to-end data analysis project using the [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The project covers SQL-based data exploration in PostgreSQL and an interactive Power BI dashboard built on top of the cleaned data.
-
+![Olist Dashboard](images/dashboard.png)
 ## Project Overview
 
 This project analyzes order, customer, product, and review data from Olist, a Brazilian e-commerce marketplace, to answer key business questions:
